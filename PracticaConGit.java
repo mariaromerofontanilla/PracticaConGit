@@ -10,7 +10,11 @@ public class PracticaConGit {
 		System.out.print("Introduzca su nombre: ");
 		String nombre = sc.nextLine();
 		
+		System.out.print("Introduzca su apellido: ");
+		String apellido = sc.nextLine();
+		
 		System.out.println(nombre);
+		System.out.println(apellido);
 
 	}
 
